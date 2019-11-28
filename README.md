@@ -1,0 +1,2 @@
+# Inheritance
+Teme Mostenire
